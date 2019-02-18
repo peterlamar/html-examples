@@ -33,3 +33,7 @@ text-align: center;
 </html> 
 
 ```
+
+## Reference
+
+[GeekforGeeks article](https://www.geeksforgeeks.org/html-class-attribute/)
