@@ -679,6 +679,7 @@ module.exports = {
 
   padding: {
     'px': '1px',
+    '2px': '2px',
     '0': '0',
     '1': '0.25rem',
     '2': '0.5rem',
@@ -715,6 +716,7 @@ module.exports = {
   margin: {
     'auto': 'auto',
     'px': '1px',
+    '2px': '2px',
     '0': '0',
     '1': '0.25rem',
     '2': '0.5rem',
@@ -750,6 +752,7 @@ module.exports = {
 
   negativeMargin: {
     'px': '1px',
+    '2px': '2px',
     '0': '0',
     '1': '0.25rem',
     '2': '0.5rem',

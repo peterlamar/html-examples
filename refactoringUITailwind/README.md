@@ -18,3 +18,6 @@ http://learnlayout.com/margin-auto.html
 Display block allocates fixed space while display inline places content within. 
 
 [Display Block](https://quirksmode.org/css/css2/display.html#block)
+
+[Span tags](https://www.codecademy.com/en/forum_questions/502ad0ea558dfe0002026d69)
+- Span tags are inline, Div tags are block
