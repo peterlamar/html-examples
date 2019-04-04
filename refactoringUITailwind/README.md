@@ -2,6 +2,8 @@
 
 Code from following along [tailwind livecode video](https://www.youtube.com/watch?v=17OBlxY2C_0)
 
+Which creates [refactoringui](https://refactoringui.com/) site
+
 ## Learning points
 
 Tailwind containers fix their width to the breakpoint, or pre-set size of screen. (sm, md, lg, xl)
